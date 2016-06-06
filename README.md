@@ -16,3 +16,7 @@ This outputs an image with the same name with `-detected` appended.
 Change `aspect_ratio_range` (Range of Aspect Ratio for Accepted Rectangles), `area_range` (Range of Area for Accepted Rectangles), and `se_shape` (Shape of Structuring Element for Morphological Closing) to the taste of your own dataset.
 
 ## Results
+
+![1](https://raw.githubusercontent.com/abdulfatir/pyANPD/master/tests/2-detected.png)
+![2](https://raw.githubusercontent.com/abdulfatir/pyANPD/master/tests/4-detected.png)
+![3](https://raw.githubusercontent.com/abdulfatir/pyANPD/master/tests/3-detected.png)
