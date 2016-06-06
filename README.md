@@ -1,2 +1,2 @@
-# pyANPR
-Automatic Number Plate Recognition for Python
+# pyANPD
+Automatic Number Plate Detection for Python
